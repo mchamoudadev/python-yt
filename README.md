@@ -3,7 +3,7 @@
 This is a **beginner-friendly, Somali-based, online course** carefully prepared by **Dugsiiye** to help you learn Python from the ground up. Whether you're completely new to programming or looking to strengthen your foundation, this course will guide you step by step through essential Python concepts in a way that's easy to understand.  
 
 For a more interactive learning experience, we also have a **video version** of this course available. You can watch it here:  
-👉 **[Watch the Full Video on YouTube](https://www.youtube.com/watch?v=FLCVd8tJA2U)**  
+👉 https://www.youtube.com/watch?v=FLCVd8tJA2U
 
 ---
 
